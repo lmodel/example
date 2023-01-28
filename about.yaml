@@ -1,0 +1,6 @@
+name: sample
+author: Noel McLoughlin <noel.mcloughlin@gmail.com>
+description: Sample model from Linkml developers
+source_schema_path: src/sample/schema/sample.yaml
+google_sheet_id: 1wVoaiFg47aT9YWNeRfTZ8tYHN8s8PAuDx5i2HUcDpvQ
+google_sheet_tabs: personinfo enums
