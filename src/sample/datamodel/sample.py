@@ -1,5 +1,5 @@
 # Auto generated from sample.yaml by pythongen.py version: 0.9.0
-# Generation date: 2023-01-28T22:59:10
+# Generation date: 2023-01-28T23:28:05
 # Schema: sample
 #
 # id: https://w3id.org/lmodel/sample

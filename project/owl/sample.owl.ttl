@@ -26,7 +26,7 @@ linkml:topValue a owl:DatatypeProperty ;
     dcterms:license "Apache Software License 2.0" ;
     dcterms:title "sample" ;
     rdfs:seeAlso "https://lmodel.github.io/sample" ;
-    linkml:generation_date "2023-01-28T22:59:06" ;
+    linkml:generation_date "2023-01-28T23:28:01" ;
     linkml:metamodel_version "1.7.0" ;
     linkml:source_file "sample.yaml" ;
     linkml:source_file_date "2023-01-28T22:46:25" ;
@@ -108,13 +108,13 @@ sample:NamedThing a owl:Class,
             owl:onClass linkml:String ;
             owl:onProperty schema:name ],
         [ a owl:Restriction ;
-            owl:maxQualifiedCardinality 1 ;
-            owl:onClass linkml:String ;
-            owl:onProperty schema:description ],
-        [ a owl:Restriction ;
             owl:onClass linkml:Uriorcurie ;
             owl:onProperty schema:identifier ;
-            owl:qualifiedCardinality 1 ] ;
+            owl:qualifiedCardinality 1 ],
+        [ a owl:Restriction ;
+            owl:maxQualifiedCardinality 1 ;
+            owl:onClass linkml:String ;
+            owl:onProperty schema:description ] ;
     skos:definition "A generic grouping for any identifiable entity" ;
     skos:exactMatch schema:Thing .
 
@@ -123,16 +123,16 @@ sample:Person a owl:Class,
     rdfs:label "Person" ;
     rdfs:subClassOf [ a owl:Restriction ;
             owl:maxQualifiedCardinality 1 ;
-            owl:onClass sample:PersonStatus ;
-            owl:onProperty sample:vital_status ],
-        [ a owl:Restriction ;
-            owl:maxQualifiedCardinality 1 ;
             owl:onClass linkml:Integer ;
             owl:onProperty sample:age_in_years ],
         [ a owl:Restriction ;
             owl:maxQualifiedCardinality 1 ;
             owl:onClass linkml:String ;
             owl:onProperty schema:email ],
+        [ a owl:Restriction ;
+            owl:maxQualifiedCardinality 1 ;
+            owl:onClass sample:PersonStatus ;
+            owl:onProperty sample:vital_status ],
         [ a owl:Restriction ;
             owl:maxQualifiedCardinality 1 ;
             owl:onClass linkml:Date ;
