@@ -1,6 +1,6 @@
 # sample
 
-Sample schema from [https://linkml.io](Linkml) developers
+Sample schema from [Linkml](https://linkml.io) developers
 
 ## Website
 
