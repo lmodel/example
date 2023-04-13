@@ -2,77 +2,77 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://lmodel.github.io/sample/</loc>
-         <lastmod>2023-01-28</lastmod>
+         <lastmod>2023-04-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/sample/NamedThing/</loc>
-         <lastmod>2023-01-28</lastmod>
+         <lastmod>2023-04-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/sample/Person/</loc>
-         <lastmod>2023-01-28</lastmod>
+         <lastmod>2023-04-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/sample/PersonCollection/</loc>
-         <lastmod>2023-01-28</lastmod>
+         <lastmod>2023-04-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/sample/PersonStatus/</loc>
-         <lastmod>2023-01-28</lastmod>
+         <lastmod>2023-04-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/sample/age_in_years/</loc>
-         <lastmod>2023-01-28</lastmod>
+         <lastmod>2023-04-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/sample/birth_date/</loc>
-         <lastmod>2023-01-28</lastmod>
+         <lastmod>2023-04-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/sample/description/</loc>
-         <lastmod>2023-01-28</lastmod>
+         <lastmod>2023-04-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/sample/entries/</loc>
-         <lastmod>2023-01-28</lastmod>
+         <lastmod>2023-04-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/sample/id/</loc>
-         <lastmod>2023-01-28</lastmod>
+         <lastmod>2023-04-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/sample/name/</loc>
-         <lastmod>2023-01-28</lastmod>
+         <lastmod>2023-04-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/sample/primary_email/</loc>
-         <lastmod>2023-01-28</lastmod>
+         <lastmod>2023-04-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/sample/sample/</loc>
-         <lastmod>2023-01-28</lastmod>
+         <lastmod>2023-04-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/sample/types/</loc>
-         <lastmod>2023-01-28</lastmod>
+         <lastmod>2023-04-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/sample/vital_status/</loc>
-         <lastmod>2023-01-28</lastmod>
+         <lastmod>2023-04-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
